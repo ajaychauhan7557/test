@@ -1,3 +1,4 @@
 hello git reset
 changed content
-new changed content2
+updated content
+
