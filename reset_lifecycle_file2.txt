@@ -1,6 +1,4 @@
 hello git reset
-where is my message?
-new changed content2
 changed content
 updated content
 
